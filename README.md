@@ -4,7 +4,7 @@
 <p align="center">This repository is a comprehensive collection of JavaScript array methods, examples, and best practices. It covers a wide range of array operations, including:</p>
 <hr>
 
- <p align="center" style="font-weight: bold;"> <h2>💻 Chepter-01 </h3> </p> 
+ <p align="center" style="font-weight: bold;"> <h2>💻 Chepter-04 </h3> </p> 
 
  
  <p align="center">
